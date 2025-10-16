@@ -1,7 +1,12 @@
+## Author: Kholiwe Faith Mafenuka 
+## Course: Project Presentation 3
+## Date: 18 October 2025
+---
+
 # 💼 Digital Portfolio
 
 
-This portfolio forms part of the final assessment for the Diploma in ICT at CPUT.  
+This portfolio forms as part of the final assessment for Project Presentation.  
 
 ---
 
@@ -23,16 +28,16 @@ This portfolio forms part of the final assessment for the Diploma in ICT at CPUT
 ### 🔁 Reflection (Using STAR Technique)
 
 > S – Situation:  
-> During a communication workshop, I realized that my written and verbal communication needed improvement when preparing reports or speaking in meetings.
+> As part of the course, I completed a quiz on business communication that tested my understanding of formal writing, listening, and presentation principles. I realized that although I communicated clearly in casual settings, my professional communication needed refinement.
 
 > T – Task:  
-> I needed to apply effective business communication principles to write a professional email and deliver a short presentation.
+> My task was to apply effective communication techniques to ensure clarity and professionalism in business contexts, especially in emails and presentations.
 
 > A – Action:  
-> I practiced concise writing, used a formal tone, and structured my presentation clearly using visual aids. I also incorporated feedback from my lecturer.
+> I studied the key principles covered in the quiz—clarity, conciseness, and tone—and practiced rewriting emails and preparing short presentations using formal language. I also reviewed feedback to improve my phrasing and structure.
 
 > R – Result:  
-> My communication became clearer and more professional. I am now more confident writing reports and delivering presentations in a business environment.
+> The activity improved my ability to write and speak in a professional tone. I now approach workplace communication with confidence, ensuring my message is well-structured and appropriate for different audiences.
 
 ---
 
@@ -45,16 +50,16 @@ This portfolio forms part of the final assessment for the Diploma in ICT at CPUT
 ### 🔁 Reflection (Using STAR Technique)
 
 > S – Situation:  
-> I needed to prepare for future job interviews but was nervous about answering behavioral questions.
+> During an interview skills quiz, I recognized that I often struggled to organize my answers effectively under pressure.
 
 > T – Task:  
-> My goal was to learn how to answer interview questions confidently using the STAR technique.
+> My goal was to learn a structured method for answering interview questions that highlight my skills and experiences clearly.
 
 > A – Action:  
-> I attended an interview skills session, practiced answering common questions, and rehearsed with a peer while recording my responses for feedback.
+> I practiced answering sample questions using the STAR (Situation, Task, Action, Result) framework. I also watched recorded interview simulations and analyzed what made answers compelling.
 
 > R – Result:  
-> I learned to structure my answers using STAR, which made my responses clearer and more professional. I now feel confident and prepared for real interviews.
+> I became more confident in handling behavioral questions and learned to highlight my strengths effectively. I now feel better prepared for real-world interviews by structuring my responses in a logical, impactful way.
 
 ---
 
@@ -66,16 +71,16 @@ https://github.com/faith0896/PRP3_Digital-Portfolio/blob/main/mock%20interview.m
 ### 🔁 Reflection (Using STAR Technique)
 
 > S – Situation:  
-> I participated in a mock interview organized as part of the work readiness training.
+> As part of the course assessment, I participated in a recorded mock interview that simulated a real job interview setting.
 
 > T – Task:  
-> I had to simulate a real interview, demonstrating communication, confidence, and professionalism.
+> I needed to demonstrate professionalism, communication skills, and confidence while responding to interview questions.
 
 > A – Action:  
-> I dressed professionally, researched the “company” beforehand, and practiced good body language. I also reflected on the feedback received afterward.
+> I prepared by practicing commonly asked questions, and refining my non-verbal communication such as posture, facial expression, and tone. After the mock interview, I reviewed the feedback to identify improvement areas.
 
 > R – Result:  
-> The experience improved my confidence and helped me identify areas for growth, such as pausing before answering and maintaining eye contact.
+> The experience gave me a realistic understanding of how to perform in a professional interview. I learned to maintain calm under pressure, communicate clearly, and project confidence, which will benefit me in future interviews.
 
 ---
 
@@ -84,21 +89,22 @@ https://github.com/faith0896/PRP3_Digital-Portfolio/blob/main/mock%20interview.m
 ### 📝 Evidence
 
 ![Professional_Networking](https://github.com/user-attachments/assets/effe036c-ccd3-4eb1-811f-440cee89a0c5)
- 
+![WhatsApp Image 2025-10-17 at 01 06 40_ec0ba046](https://github.com/user-attachments/assets/45fa73ef-54e8-4158-8871-e01955bab3f9)
 
+ 
 ### 🔁 Reflection (Using STAR Technique)
 
 > S – Situation:  
-> I needed to build a professional online presence and grow my network in the ICT field.
+> Through a professional networking quiz, I explored the importance of creating and maintaining a strong professional presence, especially online.
 
 > T – Task:  
-> My task was to create or update my LinkedIn profile and connect with professionals in my field.
+> My goal was to understand how networking platforms like LinkedIn can be used to connect with industry professionals and open career opportunities.
 
 > A – Action:  
-> I updated my profile with my CV details, joined ICT-related groups, and connected with classmates, alumni, and industry professionals.
+> I reviewed best practices covered in the quiz, updated my LinkedIn profile, joined ICT-related groups, and engaged with posts shared by professionals in my field. I also followed companies related to my career goals.
 
 > R – Result:  
-> I developed a strong LinkedIn profile and received several helpful insights from professionals. I now understand the value of online networking for career growth.
+> I now have an organized LinkedIn profile and a growing network of professionals. The process helped me understand how networking supports career development and continuous learning.
 
 ---
 
@@ -112,15 +118,15 @@ https://github.com/faith0896/PRP3_Digital-Portfolio/blob/main/mock%20interview.m
 ### 🔁 Reflection (Using STAR Technique)
 
 > S – Situation:  
-> Before entering the workplace, I wanted to understand proper professional behavior, teamwork, and ethical conduct.
+> The workplace etiquette quiz, combined with my WILL work experience, helped me reflect on the importance of professionalism, teamwork, and respect in a work environment.
 
 > T – Task:  
-> I needed to learn and demonstrate correct workplace etiquette to prepare for my internship and future job.
+> I aimed to strengthen my understanding of appropriate workplace behavior and ensure I can adapt to different organizational cultures.
 
 > A – Action:  
-> I attended a workplace readiness session, reviewed company policies, and learned about professional dress code, punctuality, and communication.
+> I completed the quiz to refresh my theoretical knowledge and related it to my practical experiences—such as maintaining punctuality, respecting diverse colleagues, and following workplace protocols. I also observed how communication and collaboration contribute to a positive work culture.
 
 > R – Result:  
-> I now understand how to behave professionally in a corporate environment and how etiquette contributes to teamwork and career success.
+> I reinforced my professional habits and recognized areas for continuous growth, such as emotional intelligence and adaptability. This combination of theory and real experience prepared me to navigate future workplaces confidently and respectfully.
 
 ---
