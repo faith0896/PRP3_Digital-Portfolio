@@ -61,9 +61,7 @@ This portfolio forms part of the final assessment for the Diploma in ICT at CPUT
 ## 🎬 Mock Interview
 
 ### 📝 Evidence
-- Screenshot or recording of mock interview  
-- Lecturer feedback or self-evaluation notes  
-- Reflection form  
+https://github.com/faith0896/PRP3_Digital-Portfolio/blob/main/mock%20interview.mp4 
 
 ### 🔁 Reflection (Using STAR Technique)
 
